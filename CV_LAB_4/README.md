@@ -41,6 +41,7 @@ The output compares:
 - Prewitt Edge Detection
 - Canny Edge Detection
 
+![Edge Detection Output](edge_output.png)
 ## Result
 
 Sobel, Prewitt and Canny edge detection techniques were successfully implemented and compared on the input image.
